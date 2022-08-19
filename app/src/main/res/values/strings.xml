@@ -1,0 +1,14 @@
+<resources>
+    <string	name="app_name" translatable="false">Sekundarschule Quer-Bunt</string>
+    <string name="pic_menu" translatable="false">Background Icon</string>
+    <string name="txt_ter_btn" translatable="false">Termine</string>
+    <string name="txt_vpl_btn" translatable="false">Vertretungsplan</string>
+    <string name="txt_bfp_btn" translatable="false">Busfahrplan</string>
+    <string name="txt_call_btn" translatable="false">Anrufen</string>
+    <string name="txt_ds_btn" translatable="false">Datenschutzverordnung</string>
+    <string name="txt_now_btn" translatable="false">AKTUELL</string>
+    <string name="txt_dialog_title" translatable="false">GTSQ APP</string>
+    <string name="txt_call_dialog_yes" translatable="false">Anrufen</string>
+    <string name="txt_calL_dialog_no" translatable="false">Abbrechen</string>
+    <string name="txt_call_dialog_text" translatable="false">Mit klicken auf "Anrufen" werden Sie automatisch zur Telefon-App weitergeleitet.</string>
+</resources>

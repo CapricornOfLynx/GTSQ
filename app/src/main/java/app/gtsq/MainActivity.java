@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View _view) {
                 i.setAction(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("http://fitfuerdieausbildung.de/html/app/bus.html"));
+                i.setData(Uri.parse("http://gtsq.de/app/bus.html"));
                 startActivity(i);
             }
         });
@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View _view) {
                 i.setAction(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("http://fitfuerdieausbildung.de/html/app/aktuell.html"));
+                i.setData(Uri.parse("http://gtsq.de/app/aktuell.html"));
                 startActivity(i);
             }
         });
